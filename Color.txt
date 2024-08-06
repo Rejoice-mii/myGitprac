@@ -3,4 +3,6 @@ blue
 yellow
 megenta
 beige
+black
+white
 
